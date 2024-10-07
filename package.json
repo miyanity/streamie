@@ -1,0 +1,16 @@
+{
+  "name": "streamie",
+  "version": "1.0.0",
+  "description": "A user-friendly matchmaking tool for Twitch streamers to find and collaborate with others. Using the Twitch API, streamers can easily connect based on shared interests and audience size. Designed with a fun interface and Twitch's signature colors, it simplifies collaboration and networking.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "mongoose": "^8.7.0"
+  }
+}

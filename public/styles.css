@@ -1,0 +1,35 @@
+/* General Styles */
+body {
+    font-family: 'Montserrat', sans-serif; /* Body Text */
+    background-color: #f4f4f4;
+    color: #333;
+    text-align: center;
+    padding: 20px;
+}
+
+header {
+    background: #4CAF50;
+    color: white;
+    padding: 10px 0;
+    border-radius: 5px;
+}
+
+/* Headings */
+h1 {
+    font-family: 'League Spartan', sans-serif; /* Headings */
+    font-size: 2.5em; /* Adjust size as needed */
+    margin: 0;
+}
+
+/* Subheadings/Body Text */
+p {
+    font-family: 'Montserrat', sans-serif; /* Subheadings/Body Text */
+    font-size: 1.2em; /* Adjust size as needed */
+}
+
+/* Accent Text/Highlights */
+.highlight {
+    font-family: 'Raleway', sans-serif; /* Accent Text/Highlights */
+    font-weight: 600; /* Adjust weight as needed */
+    color: #FF5733; /* Example color for highlights */
+}
